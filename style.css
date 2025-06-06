@@ -1,0 +1,45 @@
+body{
+    background-color:blue; 
+color:aliceblue;
+  font-family :cursive;
+  font-size: 30px;
+  text-align:center;
+}
+
+h1{
+    font-family:cursive;
+        font-size:50px;
+    text-align: center;
+    font font-weight:800;
+}
+
+
+
+.dinosuar{
+    background-color:currentColor;
+}
+
+
+
+
+a{
+    font-family:cursive;
+  font-weight: 500;
+  font-style: normal;
+    font-size: 30px;
+    color: deepskyblue;
+    text-align: left;
+
+}
+a:hover{
+    color: hotpink
+}
+.cedarville-cursive-regular {
+  font-family: "Cedarville Cursive", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
